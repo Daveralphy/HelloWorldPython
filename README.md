@@ -6,7 +6,7 @@ This software is a simple Python program that prints a personalized greeting to 
 
 My purpose in creating this was to validate my toolchain end to end: writing code locally in VS Code, tracking it with Git, and publishing it to a public GitHub repository, the same workflow I'll rely on for every project going forward, just like I do with the larger products I ship at WindVeal.
 
-[Software Demo Video](https://youtu.be/MKYEbn5goho)
+[![Software Demo Video](https://img.youtube.com/vi/MKYEbn5goho/0.jpg)](https://youtu.be/MKYEbn5goho)
 
 # Development Environment
 
